@@ -1,0 +1,9 @@
+{
+  "name": "crm-monorepo",
+  "private": true,
+  "packageManager": "pnpm@10.11.1",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
